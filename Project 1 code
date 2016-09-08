@@ -1,22 +1,26 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Early Video Games that Impacted the Developement of Computing </title>
+    <title>Early Video Games that Impacted the Development of Computing </title>
 </head>
 <body bgcolor="black"
       text="green">
     <header>History of Technology</header>
         <p>By Quinn Sehenuk</p>
-    <h1>History of Technologys</h1>
+    <h1>History of Technology</h1>
     <style>
-        p{font-family: cursive;}
+        p{font-family: Arial;}
         header{font-family: cursive;}
         h1{font-family: cursive;}
         h2{font-family: cursive;}
-        body{font-family: cursive;}
-        a{color:red;}
-
+        body{font-family: Arial;}
+        a{color:red ;}
+        a:link    {color:green; background-color:transparent; text-decoration:none}
+        a:visited {color:purple; background-color:transparent; text-decoration:none}
+        a:hover   {color:red; background-color:transparent; text-decoration:underline}
+        a:active  {color:gold; background-color:transparent; text-decoration:underline}
     </style>
 
     <h2>History of Pong</h2>
@@ -35,7 +39,7 @@
             and is the first commercially successful arcade video game
             machine,which helped establish the video game industry along
             with the first home console.<br>
-            <img src="img/Pong.jpg" width="318" height="159"/>
+            <img src="img/Pong.jpg " width="318" height="159"/>
         </p>
       </article>
     <h2>History of Atari</h2>
@@ -81,7 +85,6 @@
         <a href="https://en.wikipedia.org/wiki/Pong#Development_and_history">Info on Pong</a><br/>
         <a href="https://en.wikipedia.org/wiki/Atari">Info on Atari</a><br/>
         <a href="https://en.wikipedia.org/wiki/Spacewar!">Info on SpaceWar</a><br/>
-
 
     </footer>
 </body>
